@@ -66,7 +66,7 @@ REVEALJS_SECTION_ATTRIBUTES = {
     "data-autoslide": directives.unchanged,
     # data-external : https://github.com/janschoepke/reveal_external
     # testing. Assuming pluugin loaded
-    "data-external": directives.unchanged
+    "data-external": directives.unchanged,
 }
 
 
